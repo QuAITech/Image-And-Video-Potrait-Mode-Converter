@@ -1,3 +1,6 @@
 # Image_Segmentation_Mini_Project
-This project is made into 2 parts 1. Instance Segmentation ColorPopAndPotraitMode.py and 2.Semantic Segmentation 
-See the demo pic and colorpop, potrair mode pics to understand
+This project is made into 2 parts 1. Instance Segmentation  and 2.Semantic Segmentation 
+
+Instance Segmentation is used in ColorPopAndPotraitMode.py
+
+See the images in the demo folder for understanding the output of the script ColorPopAndPotraitMode.py
